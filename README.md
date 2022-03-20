@@ -9,7 +9,7 @@
 - 위 두 컴포넌트에서 발생하는 marks 상태값의 변화에 따른 리렌더링 현상을 실험해보고자 만든 레포지토리입니다.
 - key값이 같은 요소가 새롭게 생성되었을 때 리렌더링이 발생하는지 여부, React.memo가 어떻게 동작하는지에 대해서 실험을 통해 공부하였습니다.
 - [superLipbalm](https://github.com/superLipbalm)님과 [pyo-sh](https://github.com/pyo-sh)님의 자문을 받아서 실험하였습니다.
-- 실험에는 `React Development Tool`이 사용되었습니다.
+- 실험에는 `React Development Tools`가 사용되었습니다.
 
 <br />
 
